@@ -1,4 +1,4 @@
-## Custom notifications
 notify:
   webhooks:
+    # A list of hook hashes, containing the URL field
     - url: http://requestb.in/tlhd8ntl
