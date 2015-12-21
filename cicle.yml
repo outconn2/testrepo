@@ -1,4 +1,4 @@
  notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: https://hooks.slack.com/services/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
+    - url: http://requestb.in/1aoqlix1
