@@ -1,4 +1,4 @@
 ## Custom notifications
 notify:
   webhooks:
-    url: http://requestb.in/tlhd8ntl/
+    - url: http://requestb.in/tlhd8ntl/
