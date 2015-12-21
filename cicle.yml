@@ -70,4 +70,4 @@ deployment:
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: http://requestb.in/1aoqlix1
+    url: http://requestb.in/tlhd8ntl
