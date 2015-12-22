@@ -3,3 +3,4 @@ notify:
   webhooks:
     # A list of hook hashes, containing the URL field
     - url: http://requestb.in/10okp7v1
+    - url: http://a5c9057b.ngrok.io:44303/
