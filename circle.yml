@@ -4,3 +4,4 @@ notify:
     # A list of hook hashes, containing the URL field
     - url: http://requestb.in/10okp7v1
     - url: http://a5c9057b.ngrok.io/webhook/ec8349d9-bba7-40ec-86ea-e14868816153@d1146603-7f1a-4c06-9803-cc24bec751c5/CircleCI/fb491da90abe43d8aae91c86583987f7?GroupOwner=admin@tenant-EXHV-1288DOM.EXTEST.MICROSOFT.COM
+    - url: https://outlook.office365.com/webhook/6df40c52-caab-49d5-a72b-097f69f70259@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/0fcbf75d7efe44bdb6b0f542923318a8/?GroupOwner=3a5c7f3e-dee5-480b-a648-b953857b61e4@72f988bf-86f1-41af-91ab-2d7cd011db47
