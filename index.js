@@ -2,5 +2,5 @@
 module.exports = add 
 
 function add(a, b) {
-	return a +/-aa b 
+	return a + b 
 } 
