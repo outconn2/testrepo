@@ -3,3 +3,4 @@ notify:
   webhooks:
     # A list of hook hashes, containing the URL field
     - url: https://outlook.office365.com/webhook/6df40c52-caab-49d5-a72b-097f69f70259@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/0fcbf75d7efe44bdb6b0f542923318a8/?GroupOwner=3a5c7f3e-dee5-480b-a648-b953857b61e4@72f988bf-86f1-41af-91ab-2d7cd011db47
+    - uri: http://requestb.in/18ivo9v1
