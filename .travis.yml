@@ -6,3 +6,6 @@ before_script:
  - npm install
  - npm install istanbul coveralls
 script: npm run travis-test
+
+notifications:
+webhooks: https://outlook.office365.com/webhook/ad7b5aae-f296-421e-90fa-267e16242260@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/8283602079fc41c4ac0eea02d7d3dc6c/5ae8ccea-fc98-478b-9213-5e4ec50192cb
