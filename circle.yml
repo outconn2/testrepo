@@ -2,7 +2,4 @@
 notify:
   webhooks:
     # A list of hook hashes, containing the URL field
-    - url: https://outlook.office365.com/webhook/6df40c52-caab-49d5-a72b-097f69f70259@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/0fcbf75d7efe44bdb6b0f542923318a8/?GroupOwner=3a5c7f3e-dee5-480b-a648-b953857b61e4@72f988bf-86f1-41af-91ab-2d7cd011db47
-    - url: https://outlook.office365.com/webhook/6b82617d-03b3-4df3-9362-b142e28ea400@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/ba128b080476462eaae1695bdc97d40c/6b145917-1822-4947-8124-d073335ce9c4
-    - url: https://outlook.office365.com/webhook/a7e5abb5-5aef-41d0-8f32-24b18488a32d@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/17f8bbd1f8784f0987ba581edb717715/5ae8ccea-fc98-478b-9213-5e4ec50192cb
-    - url: https://outlook.office365.com/webhook/2fe83e42-8902-41e0-8fc7-3d13c97d574f@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/65d4d8f838f143d080029a469ec67eb4/6e1e99c1-795a-4698-bea3-1775e6691a12
+    - url: https://outlook.office.com/webhook/5ad14f11-18f0-42cb-98fe-c7a540ee05dc@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/3a0bbe1fd0144e47860bb8b0f14c90d1/b8c8ad05-edca-46dd-9aa8-1ac857a5c591
