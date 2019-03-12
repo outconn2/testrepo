@@ -8,4 +8,4 @@ before_script:
 script: npm run travis-test
 
 notifications:
-webhooks: https://outlook.office.com/webhook/f4c6525c-1065-49d6-abdd-e6e86f3f617c@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/5181bc8e61a14f06b007997820c3a00e/5ae8ccea-fc98-478b-9213-5e4ec50192cb
+webhooks: https://outlook.office.com/webhook/f4c6525c-1065-49d6-abdd-e6e86f3f617c@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/2ab557ebf7984cce82a81d82ccb742b0/184376c3-dda3-4fbe-9514-16ae5b6877ae
